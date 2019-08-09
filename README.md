@@ -2,6 +2,9 @@
 open source music stems
 
 STUFF I DID ON THE COMMAND LINE
+
+[FIRST CONFIGURE LOCAL GIT](https://git-scm.com/book/en/v2/Getting-Started-First-Time-Git-Setup
+)
 ```
 $ git clone https://github.com/jeremy-donson/online_collaborations.git
 Cloning into 'online_collaborations'...
